@@ -11,5 +11,12 @@ npm i @angular/cli -g
 the angular CLI is invoked through the command line using the acronym ng.  To create a new project in the terminal
 ```
 ng new name-of-your-project
+```
+
+Now that you have a bare bones project, you can cd into the directory and run it on localhost with the following terminal command
+```
+ng serve
+```
+From here you will geta dialogue box that gives you the local host address that you can visit in the browser to see your application live.
 
 
